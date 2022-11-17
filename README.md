@@ -1,8 +1,17 @@
 [Demo](https://st.santiagoberrio.online/)
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project: 
 
-  npm install
-  
-  npm start
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+ 3. Init the project
+   ```sh
+   npm start
+   ```
